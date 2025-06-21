@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.feelfrolic.mergegames.mergedragons.mergemaster",
+      "sha256_cert_fingerprints": [
+        "51:0C:56:11:19:48:B1:EA:8F:45:59:A3:C7:2C:99:D8:1C:D0:13:B9:F1:CB:96:8E:CF:20:5B:08:42:E9:A9:AB"
+      ]
+    }
+  }
+]
