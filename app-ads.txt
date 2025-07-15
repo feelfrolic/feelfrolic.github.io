@@ -1,6 +1,6 @@
 google.com, pub-5721852884096898, DIRECT, f08c47fec0942fa0
 
-facebook.com, 462751760515574, RESELLER, c3e20eee3f780d68
+facebook.com, 462751760515574, DIRECT, c3e20eee3f780d68
 
 thunder-monetize.com, 5257091605, RESELLER
 thunder-monetize.com, 8221217003, RESELLER
