@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Play Game of Games</title>
+    <script>
+        const ua = navigator.userAgent || navigator.vendor;
+        if (/android/i.test(ua)) {
+            window.location = "https://play.google.com/store/apps/details?id=com.FeelFrolic.Free.Games.GameOfGames.OfflineGames";
+        } else if (/iPad|iPhone|iPod/.test(ua)) {
+            window.location = "https://apps.apple.com/us/app/game-of-games-offline-games/id6753612555";
+        } else {
+            window.location = "https://feelfrolicgames.in";
+        }
+    </script>
+</head>
+<body>
+    <p>Loading...</p>
+</body>
+</html>
